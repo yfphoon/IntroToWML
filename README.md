@@ -1,13 +1,13 @@
-## Introduction to Notebooks for SPSS Professionals Lab
-This repository contains data and analytic assets for the Lab. The iPython Notebook is designed to run on 
-<a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
+## Introduction to IBM Watson Machine Learning Lab
+This repository contains analytic assets for the Lab. The iPython Notebook is designed to run on 
+<a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a>.
 
-There are 2 notebooks to work through in this exercise.
+There is 1 notebooks to work through in this exercise.
 
 ### Getting Started
-- Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
+- Create a **Project** in DSX Cloud and name it "*Intro To WML*"
 
-- Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
+- Within the *Intro To WML* project, **add a Notebook** and choose to import it from this **URL**: 
   https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
   
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
