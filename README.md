@@ -2,7 +2,7 @@
 This repository contains analytic assets for the Lab. The iPython Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a>.
 
-There is 1 notebooks to work through in this exercise.
+There is 1 notebook to work through in this exercise.
 
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it "*Intro To WML*"
