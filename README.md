@@ -1,5 +1,5 @@
 ## Introduction to IBM Watson Machine Learning Lab
-This repository contains analytic assets for the Lab. The iPython Notebook is designed to run on 
+This repository contains analytic assets for the Lab. The Jupyter Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a>.
 
 There is 1 notebook to work through in this exercise.
@@ -13,3 +13,4 @@ There is 1 notebook to work through in this exercise.
 - Work through the notebook
 
 
+Jupyter
